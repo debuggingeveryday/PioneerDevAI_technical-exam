@@ -32,5 +32,5 @@ npm run watch
 
 ## My reference for this project
 
-[Docker build](https://github.com/refactorian/laravel-docker/tree/laravel_10x)
+[Docker build](https://github.com/refactorian/laravel-docker/tree/laravel_10x) <br/>
 [Laravel Open Router](https://github.com/moe-mizrak/laravel-openrouter)
